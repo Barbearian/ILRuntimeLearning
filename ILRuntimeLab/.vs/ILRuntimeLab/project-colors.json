@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43f9094a-cb13-a691-3911-0ab1fe6d9689": {
+      "ProjectGuid": "43f9094a-cb13-a691-3911-0ab1fe6d9689",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "55b8f9aa-1fe7-f586-6a8d-d73a34845d10": {
+      "ProjectGuid": "55b8f9aa-1fe7-f586-6a8d-d73a34845d10",
+      "DisplayName": "ILRuntime",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
